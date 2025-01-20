@@ -74,6 +74,14 @@ After installation, you can start using the configured applications. Modify the 
     chsh -s $(which zsh)
     source ~/.zshrc
     ```
+### Packages  `pacman`:
+```bash
+sudo pacman -S ntfs-3g foot alacritty lsd bat tmux neovim luarocks tldr obs-studio vlc yazi foliate
+```
+### Packages `yay`:
+```bash
+yay -S thorium-browser-bin visual-studio-code-bin 64gram-desktop-bin apple-fonts fum
+```
 
 
 ### utilities
