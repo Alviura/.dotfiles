@@ -14,9 +14,6 @@
 | ![6](review/6.png) | ![7](review/7.png) |
 
 
-![](/posts/assets/archlinux/archlinux.webp)
-
-
 ## 1. Install ArchLinux With Minimal Configuration
 
 - ### Make a Bootable USB
@@ -72,7 +69,7 @@ $ lsblk
 
 if will show your all partitions and there information
 
-![](/posts/assets/archlinux/1.webp)
+![3](review/1.webp)
 
 ```bash
 $ cfdisk
@@ -80,7 +77,7 @@ $ cfdisk
 
 it show you all of your information about your drives
 
-![](/posts/assets/archlinux/2.webp)
+![3](review/2.webp)
 
 You have to make 3 partitions
 
@@ -120,7 +117,7 @@ $ archinstall
 
 After running the `archinstall` command it will show you something like this.
 
-![](/posts/assets/archlinux/3.webp)
+![3](review/3.webp)
 
 1. **Locales :** In locales select your _keyboard layout_, _locale language_, and _endcoding_
 2. **Mirrors :** In Mirrors select best mirror region according to your location
@@ -142,7 +139,7 @@ After running the `archinstall` command it will show you something like this.
 
 after that just press the `install` and wait for installation to be finished
 
-![](/posts/assets/archlinux/4.webp)
+![3](review/4.webp)
 
 Congratulations🎉!! You have successfully installed the ArchLinux and now you can say that _I use Arch btw_
 
@@ -159,11 +156,11 @@ chmod +x install.sh
 
 select the option according the option given in image I have explained each one of them and those without comment means go with that are in image.
 
-![](/posts/assets/archlinux/arch-hyprland.webp)
+![3](review/arch-hyprland.webp)
 
 After selecting all the options, I will start installing Hyprland and additional components. During the installation, you may be prompted to enter the password 2-3 times, so stay attentive. Once the installation is successful, it will show a prompt to press 'Y' to reboot the system.
 
-![](/posts/assets/archlinux/installation.png)
+![3](review/installation.png)
 
 You have successfully installed Archlinux+Hyprland.
 
